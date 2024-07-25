@@ -2,6 +2,7 @@
 **Abstract**
 The Employee Management System (EMS) is a comprehensive web application designed to manage employee information efficiently and effectively. Built with a robust backend powered by Spring Boot and a dynamic frontend using React, this system offers a complete suite of features for managing employee data, departments, and roles. The EMS provides functionalities for creating, reading, updating, and deleting employee records, ensuring seamless interaction and data integrity.
 
+
 ****Features****
 **Backend** (Spring Boot)
 **RESTful API**: Secure and efficient endpoints for managing employees and departments.
